@@ -60,3 +60,30 @@
     </tr>
   </table>
 </div>
+
+<h2> Trabalhando com Branches </h2>
+
+<div>
+  <table>
+    <tr>
+      <th> Comandos </th>
+      <th> Descrições </th>
+    </tr>
+    <tr>
+      <td> git branch </td>
+      <td> Visualizar em qual branch você está localizado. </td>
+    </tr>
+    <tr>
+      <td> git checkout -b branch </td>
+      <td> Cria uma nova branch e move-se para ela simultaneamente. </td>
+    </tr>
+    <tr>
+      <td> git checkout branch </td>
+      <td> Troca de branch. </td>
+    </tr>
+    <tr>
+      <td> git merge </td>
+      <td> União das modificações com outra branch paralela. </td>
+    </tr>
+  </table>
+</div>
